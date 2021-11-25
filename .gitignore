@@ -1,0 +1,6 @@
+apiweb.csproj
+appsettings.Development.json
+appsettings
+Properties/
+bin/
+.vscode/
